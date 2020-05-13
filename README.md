@@ -1,7 +1,7 @@
 # pandas_boilerplate
 
 <h2>Table of contents</h2>
-<p> these are links for `HTML` format of notebooks (light versions) </p>
+<p> these are links for HTML format of notebooks (light versions) </p>
 <p><a target="_blank" href="https://srisatyalokesh.github.io/pandas_boilerplate/Series.html">Series</a> <br>
   <a target="_blank" href="https://srisatyalokesh.github.io/pandas_boilerplate/DataFrames1.html">DataFrames 1</a> <br>
   <a target="_blank" href="https://srisatyalokesh.github.io/pandas_boilerplate/DataFrames%202.html">DataFrames 2</a> <br>
