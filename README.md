@@ -1,6 +1,7 @@
 # pandas_boilerplate
 
-<h2>HTML Links of IpythonNoteBooks in HTML format</h2>
+<h2>Table of contents</h2>
+<p> these are links for `HTML` format of notebooks (light versions) </p>
 <p><a href="https://srisatyalokesh.github.io/pandas_boilerplate/Series.html">Series</a> <br>
   <a href="https://srisatyalokesh.github.io/pandas_boilerplate/DataFrames1.html">DataFrames 1</a> <br>
   <a href="https://srisatyalokesh.github.io/pandas_boilerplate/DataFrames%202.html">DataFrames 2</a> <br>
@@ -19,5 +20,5 @@
   <P> Replace all Data set paths with "datasets/FILE_NAME" </p>
  <br>
   <br>
-      <a href="/">Finally Click here</a> <br>
+  <a href="/"><h4>Finally Click here</h4></a> <br>
   </p>
