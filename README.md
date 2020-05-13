@@ -17,8 +17,5 @@
       <a href="https://srisatyalokesh.github.io/pandas_boilerplate/Working%20with%20Text%20Data.html">Working with Text Data</a> <br>
   <br>
   <br>
-  <P> Replace all Data set paths with "datasets/FILE_NAME" </p>
+  <P> Replace all Data set paths with "datasets/FILE_NAME" when you start working</p>
  <br>
-  <br>
-  <a href="/"><h4>Finally Click here</h4></a> <br>
-  </p>
